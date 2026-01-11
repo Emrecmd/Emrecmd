@@ -13,10 +13,10 @@
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Emrecmd&theme=dark&show_icons=true&count_private=true&exclude_repo=B-NARY">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Emrecmd&theme=dark&show_icons=true&count_private=true&exclude_repo=B-NARY&v=5">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Emrecmd&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Emrecmd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6&exclude_repo=B-NARY"></td></tr></tbody></table>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Emrecmd&theme=dark&v=5"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Emrecmd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6&exclude_repo=B-NARY&hide=javascript&v=5"></td></tr></tbody></table>
 
 ## Connect with me
 
